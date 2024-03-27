@@ -1,6 +1,6 @@
 from flask import *
 from user.routes import user_blueprint
-from flask_cors import CORS
+# from flask_cors import CORS
 
 app = Flask(__name__)
 # CORS(app)
