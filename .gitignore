@@ -1,0 +1,30 @@
+# Flask related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Backup files
+*~
+
+# Environment variables
+.env
+
+# Vite related
+node_modules/
+/dist/
+.yarn/
+.yarnrc
+yarn.lock
+.pnp.*
+.pnp.js
